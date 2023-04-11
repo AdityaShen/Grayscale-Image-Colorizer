@@ -17,3 +17,17 @@ Model Loss:
 
 ![model_loss](https://user-images.githubusercontent.com/79261869/231076133-afc885fd-ae42-466f-8d34-3037625bd2fa.jpg)
 
+
+Model Output:
+
+![image](https://user-images.githubusercontent.com/79261869/231076729-eb30f2b1-f175-42b5-91ee-46d06883b689.png)
+
+
+![image](https://user-images.githubusercontent.com/79261869/231076828-04757811-0f07-4f67-aee2-0e60daeff074.png)
+
+
+![image](https://user-images.githubusercontent.com/79261869/231076943-02b18499-1e0f-437d-aaba-33caab43f6b3.png)
+
+
+Thank you for reading :)
+
